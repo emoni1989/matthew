@@ -1,0 +1,34 @@
+h1 {
+    font-size: 200%;
+    font-weight: 600;
+    font-variant: small-caps;
+}
+
+h3 {
+    font-size: 100%;
+    font-weight: 600;
+}
+
+h1, h3 {
+    text-transform: uppercase;
+    
+}
+
+p {
+    font-size: 150%;
+    font-weight: 300;
+}
+
+.bottom {
+    font-size: 150%;
+}
+
+address {
+    font-size: 130%;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: beige;
+}
+
