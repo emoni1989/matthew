@@ -2,12 +2,13 @@ h1 {
     font-size: 200%;
     font-weight: 600;
     font-variant: small-caps;
-    text-align: center;
+    
 }
 
 h3 {
     font-size: 100%;
     font-weight: 600;
+    
 }
 
 h1, h3 {
